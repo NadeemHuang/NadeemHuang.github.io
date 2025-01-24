@@ -12,7 +12,7 @@ title                    : "Nadeem Huang"
 title_separator          : "-"
 name                     : &name "Nadeem Huang"
 description              : &description "Undergraduate Computer Engineer at Virginia Tech"
-url                      : https://nadeemhuang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://NadeemHuang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NadeemHuang.github.io"
 
